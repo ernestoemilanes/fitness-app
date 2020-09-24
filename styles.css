@@ -3,9 +3,9 @@
   padding: 0;
 }
 
-body {
+/* body {
   box-sizing: border-box;
-}
+} */
 
 .text-container {
   height: 95vh;
@@ -27,7 +27,7 @@ body {
 
 .website-logo {
   font-size: 45px;
-  color: white;
+  color: black;
 }
 
 .heading-primary {
