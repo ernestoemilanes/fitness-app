@@ -38,6 +38,7 @@ body {
 
 .heading-primary-quote {
   display: block;
+  margin-bottom: 12px;
 }
 
 .heading-primary-author {
